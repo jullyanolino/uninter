@@ -45,10 +45,12 @@ O DF registrou **288 óbitos em 2022**, **248 em 2023** e **223 em 2024** — re
 
 ```
 .
-├── analise_multivariada_sinistros_df.ipynb   # Notebook principal (executado)
-├── Relatorio_Final_Estatistica_Multivariada_Transito_DF.docx  # Relatório ABNT
 ├── README.md                                  # Este arquivo
-└── figs/
+└── code/
+    ├── analise_multivariada_sinistros_df.ipynb   # Notebook principal (executado)
+└── report/
+    ├── Relatorio_Final_Estatistica_Multivariada_Transito_DF.docx  # Relatório ABNT
+└── results/
     ├── fig_01_evolucao_obitos.png             # Série anual, mensal e perfil de vítimas
     ├── fig_02_boxplots.png                    # Boxplots das variáveis por RA
     ├── fig_03_correlacao.png                  # Matriz de correlação de Pearson
