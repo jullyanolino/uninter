@@ -51,10 +51,10 @@ Cada diretório de disciplina segue a convenção:
 ```
 disciplinas/<nome-da-disciplina>/
 ├── README.md               # Descrição da disciplina e lista de trabalhos
-├── relatorio/              # Documento final (.docx, .pdf ou .tex)
+├── report/              # Documento final (.docx, .pdf ou .tex)
 ├── notebook/               # Análises em Jupyter Notebook (.ipynb)
-├── codigo/                 # Scripts auxiliares (.py, .r, etc.)
-└── figs/                   # Figuras e visualizações geradas
+├── code/                 # Scripts auxiliares (.py, .r, etc.)
+└── results/                   # Figuras e visualizações geradas
 ```
 
 ---
