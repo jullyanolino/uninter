@@ -65,8 +65,8 @@ disciplinas/<nome-da-disciplina>/
 
 | Disciplina | Tema do Trabalho | Técnicas / Conteúdo | Artefatos |
 |-----------|-----------------|---------------------|-----------|
-| [Teoria dos Jogos](./disciplinas/teoria-dos-jogos/) | Equilíbrio de Nash e Ótimo de Pareto aplicados ao transporte urbano no DF | Teoria dos jogos, matriz de payoffs, correspondências de melhor resposta, álgebra linear | Artigo (LaTeX · ABNT) |
-| [Estatística Multivariada](./disciplinas/estatistica-multivariada/) | Análise multivariada de sinistros de trânsito com vítimas fatais no DF (2022–2024) | ACP, Cluster (Ward), Análise de Correspondência, Python | Notebook · Relatório |
+| [Teoria dos Jogos](./disciplinas/teoria_dos_jogos/) | Equilíbrio de Nash e Ótimo de Pareto aplicados ao transporte urbano no DF | Teoria dos jogos, matriz de payoffs, correspondências de melhor resposta, álgebra linear | Artigo (LaTeX · ABNT) |
+| [Estatística Multivariada](./disciplinas/estatistica_multivariada/) | Análise multivariada de sinistros de trânsito com vítimas fatais no DF (2022–2024) | ACP, Cluster (Ward), Análise de Correspondência, Python | Notebook · Relatório |
 
 ### Em Andamento
 
