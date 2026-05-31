@@ -33,13 +33,13 @@ Todos os trabalhos aplicam fenômenos observáveis na realidade locorregional do
 ```
 .
 ├── disciplinas/
-│   ├── estatistica-multivariada/
-│   ├── calculo-diferencial-integral/
-│   ├── algebra-linear/
-│   ├── probabilidade-e-estatistica/
-│   ├── teoria-dos-jogos/
+│   ├── estatistica_multivariada/
+│   ├── calculo_diferencial_integral/
+│   ├── algebra_linear/
+│   ├── probabilidade_e_estatistica/
+│   ├── teoria_dos_jogos/
 │   └── ...
-├── projetos-integradores/
+├── projetos_integradores/
 ├── recursos/
 │   ├── templates/
 │   └── referencias/
