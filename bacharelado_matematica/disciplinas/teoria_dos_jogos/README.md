@@ -299,4 +299,4 @@ Este repositório é destinado exclusivamente a fins acadêmicos, como parte da 
 
 ---
 
-*Brasília – DF, 2025*
+*Brasília – DF, 2026*
